@@ -101,5 +101,6 @@ ENV/
 .mypy_cache/
 
 storage/
+test/
 .vscode
 
