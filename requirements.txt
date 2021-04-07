@@ -1,2 +1,2 @@
-bottle==0.12.10
+bottle==0.12.19
 python-magic==0.4.12
